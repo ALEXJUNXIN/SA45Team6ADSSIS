@@ -188,7 +188,16 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Controllers\Exceptions\" />
+    <Folder Include="Controllers\Services\" />
+    <Folder Include="Controllers\WebServices\" />
     <Folder Include="Models\" />
+    <Folder Include="Views\DepartmentHead\" />
+    <Folder Include="Views\Employee\" />
+    <Folder Include="Views\Reporting\" />
+    <Folder Include="Views\StoreClerk\" />
+    <Folder Include="Views\StoreManager\" />
+    <Folder Include="WebServices\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
